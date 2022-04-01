@@ -1,0 +1,3 @@
+#!/bin/bash
+echo 'o string SCHOOL School data'>>school.mgc
+o string SCHOOL School data
